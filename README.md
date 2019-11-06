@@ -1,6 +1,10 @@
 # app-tareas-back
 Backend Java
 
+Para correr el proyecto se requiere: 
+- Versión de java jdk 1.8
+- Maven
+
 Pasos para clonar y ejecutar
 
 1- Abrir consola
